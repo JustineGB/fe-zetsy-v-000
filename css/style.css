@@ -79,7 +79,7 @@ footer {
 div {
   transition: all 0.9s ease;
   background: red;
-  padding: 10px;
+  padding: 70px;
 }
 
 div:hover {
