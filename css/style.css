@@ -81,7 +81,8 @@ div {
   background: red;
   padding: 10px;
 }
+
 div:hover {
-  background: green;
+  background: #fff;;
   padding: 20px;
 }
